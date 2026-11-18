@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="180" viewBox="0 0 1000 180">
+<rect width="1000" height="180" rx="16" fill="#050b08" stroke="#20c878" stroke-width="2"/>
+<text x="28" y="48" font-family="monospace" font-size="22" fill="#65ff9b">SECURIX // CISA KNOWN EXPLOITED VULNERABILITIES</text>
+<text x="28" y="88" font-family="monospace" font-size="16" fill="#c7ffd9">Run the GitHub Actions workflow to fetch the current official CISA KEV catalog.</text>
+<text x="28" y="125" font-family="monospace" font-size="13" fill="#83bd98">This panel tracks exploited vulnerabilities; it is not a live cyberattack feed.</text>
+<text x="28" y="155" font-family="monospace" font-size="12" fill="#70b58b">Source: CISA | https://www.cisa.gov/known-exploited-vulnerabilities-catalog</text>
+</svg>
