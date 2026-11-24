@@ -1,23 +1,23 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1000" height="360" viewBox="0 0 1000 360">
 <rect width="100%" height="100%" rx="16" fill="#050b08" stroke="#20c878" stroke-width="2"/>
 <text x="28" y="42" font-family="monospace" font-size="20" font-weight="bold" fill="#65ff9b">SECURIX // CISA KNOWN EXPLOITED VULNERABILITIES</text>
-<text x="28" y="70" font-family="monospace" font-size="13" font-weight="normal" fill="#9adbb2">Catalog version: 2026.11.20  |  Total entries: 1790</text>
-<text x="28" y="94" font-family="monospace" font-size="12" font-weight="normal" fill="#78a98a">Catalog released: 2026-11-20T17:48:39.1516Z</text>
+<text x="28" y="70" font-family="monospace" font-size="13" font-weight="normal" fill="#9adbb2">Catalog version: 2026.11.23  |  Total entries: 1792</text>
+<text x="28" y="94" font-family="monospace" font-size="12" font-weight="normal" fill="#78a98a">Catalog released: 2026-11-23T19:43:55.7979Z</text>
 <line x1="28" y1="110" x2="972" y2="110" stroke="#176b43"/>
-<text x="30" y="145" font-family="monospace" font-size="14" font-weight="bold" fill="#c7ffd9">CVE-2026-129448  |  Apache Roller</text>
-<text x="52" y="165" font-family="monospace" font-size="11" font-weight="normal" fill="#83bd98">Added: 2026-11-20  |  Ransomware use: Unknown</text>
-<text x="30" y="193" font-family="monospace" font-size="14" font-weight="bold" fill="#c7ffd9">CVE-2026-123890  |  Broadcom VMware vCenter</text>
-<text x="52" y="213" font-family="monospace" font-size="11" font-weight="normal" fill="#83bd98">Added: 2026-11-20  |  Ransomware use: Unknown</text>
-<text x="30" y="241" font-family="monospace" font-size="14" font-weight="bold" fill="#c7ffd9">CVE-2025-42884  |  SAP NetWeaver</text>
+<text x="30" y="145" font-family="monospace" font-size="14" font-weight="bold" fill="#c7ffd9">CVE-2026-133968  |  Project MONAI MONAI Label</text>
+<text x="52" y="165" font-family="monospace" font-size="11" font-weight="normal" fill="#83bd98">Added: 2026-11-23  |  Ransomware use: Unknown</text>
+<text x="30" y="193" font-family="monospace" font-size="14" font-weight="bold" fill="#c7ffd9">CVE-2026-134624  |  N-able MailAssure</text>
+<text x="52" y="213" font-family="monospace" font-size="11" font-weight="normal" fill="#83bd98">Added: 2026-11-23  |  Ransomware use: Unknown</text>
+<text x="30" y="241" font-family="monospace" font-size="14" font-weight="bold" fill="#c7ffd9">CVE-2026-129448  |  Apache Roller</text>
 <text x="52" y="261" font-family="monospace" font-size="11" font-weight="normal" fill="#83bd98">Added: 2026-11-20  |  Ransomware use: Unknown</text>
-<text x="30" y="289" font-family="monospace" font-size="14" font-weight="bold" fill="#c7ffd9">CVE-2026-76466  |  Cisco Expressway Series</text>
+<text x="30" y="289" font-family="monospace" font-size="14" font-weight="bold" fill="#c7ffd9">CVE-2026-123890  |  Broadcom VMware vCenter</text>
 <text x="52" y="309" font-family="monospace" font-size="11" font-weight="normal" fill="#83bd98">Added: 2026-11-20  |  Ransomware use: Unknown</text>
-<text x="30" y="337" font-family="monospace" font-size="14" font-weight="bold" fill="#c7ffd9">CVE-2024-10441  |  Synology DiskStation Manager (DSM)</text>
-<text x="52" y="357" font-family="monospace" font-size="11" font-weight="normal" fill="#83bd98">Added: 2026-11-18  |  Ransomware use: Unknown</text>
-<text x="30" y="385" font-family="monospace" font-size="14" font-weight="bold" fill="#c7ffd9">CVE-2026-40217  |  BerriAI LiteLLM</text>
-<text x="52" y="405" font-family="monospace" font-size="11" font-weight="normal" fill="#83bd98">Added: 2026-11-18  |  Ransomware use: Unknown</text>
-<text x="30" y="433" font-family="monospace" font-size="14" font-weight="bold" fill="#c7ffd9">CVE-2026-90817  |  Vanderbilt University Research Electronic Data Capture (REDCap)</text>
-<text x="52" y="453" font-family="monospace" font-size="11" font-weight="normal" fill="#83bd98">Added: 2026-11-18  |  Ransomware use: Unknown</text>
+<text x="30" y="337" font-family="monospace" font-size="14" font-weight="bold" fill="#c7ffd9">CVE-2025-42884  |  SAP NetWeaver</text>
+<text x="52" y="357" font-family="monospace" font-size="11" font-weight="normal" fill="#83bd98">Added: 2026-11-20  |  Ransomware use: Unknown</text>
+<text x="30" y="385" font-family="monospace" font-size="14" font-weight="bold" fill="#c7ffd9">CVE-2026-76466  |  Cisco Expressway Series</text>
+<text x="52" y="405" font-family="monospace" font-size="11" font-weight="normal" fill="#83bd98">Added: 2026-11-20  |  Ransomware use: Unknown</text>
+<text x="30" y="433" font-family="monospace" font-size="14" font-weight="bold" fill="#c7ffd9">CVE-2024-10441  |  Synology DiskStation Manager (DSM)</text>
+<text x="52" y="453" font-family="monospace" font-size="11" font-weight="normal" fill="#83bd98">Added: 2026-11-18  |  Ransomware use: Known</text>
 <line x1="28" y1="330" x2="972" y2="330" stroke="#176b43"/>
 <text x="28" y="350" font-family="monospace" font-size="11" font-weight="normal" fill="#70b58b">Source: CISA KEV catalog | Exploited-vulnerability tracking, NOT a live attack feed</text>
 </svg>
