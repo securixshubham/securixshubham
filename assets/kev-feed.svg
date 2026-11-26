@@ -1,23 +1,23 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1000" height="360" viewBox="0 0 1000 360">
 <rect width="100%" height="100%" rx="16" fill="#050b08" stroke="#20c878" stroke-width="2"/>
 <text x="28" y="42" font-family="monospace" font-size="20" font-weight="bold" fill="#65ff9b">SECURIX // CISA KNOWN EXPLOITED VULNERABILITIES</text>
-<text x="28" y="70" font-family="monospace" font-size="13" font-weight="normal" fill="#9adbb2">Catalog version: 2026.11.24  |  Total entries: 1795</text>
-<text x="28" y="94" font-family="monospace" font-size="12" font-weight="normal" fill="#78a98a">Catalog released: 2026-11-24T17:47:46.199Z</text>
+<text x="28" y="70" font-family="monospace" font-size="13" font-weight="normal" fill="#9adbb2">Catalog version: 2026.11.25  |  Total entries: 1805</text>
+<text x="28" y="94" font-family="monospace" font-size="12" font-weight="normal" fill="#78a98a">Catalog released: 2026-11-25T19:48:12.4344Z</text>
 <line x1="28" y1="110" x2="972" y2="110" stroke="#176b43"/>
-<text x="30" y="145" font-family="monospace" font-size="14" font-weight="bold" fill="#c7ffd9">CVE-2026-132224  |  Optimizely Web Experimentation</text>
-<text x="52" y="165" font-family="monospace" font-size="11" font-weight="normal" fill="#83bd98">Added: 2026-11-24  |  Ransomware use: Unknown</text>
-<text x="30" y="193" font-family="monospace" font-size="14" font-weight="bold" fill="#c7ffd9">CVE-2026-131914  |  Idunno AntiCsrf</text>
-<text x="52" y="213" font-family="monospace" font-size="11" font-weight="normal" fill="#83bd98">Added: 2026-11-24  |  Ransomware use: Unknown</text>
-<text x="30" y="241" font-family="monospace" font-size="14" font-weight="bold" fill="#c7ffd9">CVE-2026-132165  |  Drupal Core</text>
-<text x="52" y="261" font-family="monospace" font-size="11" font-weight="normal" fill="#83bd98">Added: 2026-11-24  |  Ransomware use: Unknown</text>
-<text x="30" y="289" font-family="monospace" font-size="14" font-weight="bold" fill="#c7ffd9">CVE-2026-133968  |  Project MONAI MONAI Label</text>
-<text x="52" y="309" font-family="monospace" font-size="11" font-weight="normal" fill="#83bd98">Added: 2026-11-23  |  Ransomware use: Unknown</text>
-<text x="30" y="337" font-family="monospace" font-size="14" font-weight="bold" fill="#c7ffd9">CVE-2026-134624  |  N-able MailAssure</text>
-<text x="52" y="357" font-family="monospace" font-size="11" font-weight="normal" fill="#83bd98">Added: 2026-11-23  |  Ransomware use: Unknown</text>
-<text x="30" y="385" font-family="monospace" font-size="14" font-weight="bold" fill="#c7ffd9">CVE-2026-129448  |  Apache Roller</text>
-<text x="52" y="405" font-family="monospace" font-size="11" font-weight="normal" fill="#83bd98">Added: 2026-11-20  |  Ransomware use: Unknown</text>
-<text x="30" y="433" font-family="monospace" font-size="14" font-weight="bold" fill="#c7ffd9">CVE-2026-123890  |  Broadcom VMware vCenter</text>
-<text x="52" y="453" font-family="monospace" font-size="11" font-weight="normal" fill="#83bd98">Added: 2026-11-20  |  Ransomware use: Unknown</text>
+<text x="30" y="145" font-family="monospace" font-size="14" font-weight="bold" fill="#c7ffd9">CVE-2026-103406  |  Hewlett Packard Enterprise (HPE) Juniper Session Smart Conductor and ...</text>
+<text x="52" y="165" font-family="monospace" font-size="11" font-weight="normal" fill="#83bd98">Added: 2026-11-25  |  Ransomware use: Unknown</text>
+<text x="30" y="193" font-family="monospace" font-size="14" font-weight="bold" fill="#c7ffd9">CVE-2026-133469  |  Vates Xen Orchestra</text>
+<text x="52" y="213" font-family="monospace" font-size="11" font-weight="normal" fill="#83bd98">Added: 2026-11-25  |  Ransomware use: Unknown</text>
+<text x="30" y="241" font-family="monospace" font-size="14" font-weight="bold" fill="#c7ffd9">CVE-2025-41450  |  Danfoss AK-SM 800A Series</text>
+<text x="52" y="261" font-family="monospace" font-size="11" font-weight="normal" fill="#83bd98">Added: 2026-11-25  |  Ransomware use: Unknown</text>
+<text x="30" y="289" font-family="monospace" font-size="14" font-weight="bold" fill="#c7ffd9">CVE-2023-25914  |  Danfoss AK-SM 800A Series</text>
+<text x="52" y="309" font-family="monospace" font-size="11" font-weight="normal" fill="#83bd98">Added: 2026-11-25  |  Ransomware use: Unknown</text>
+<text x="30" y="337" font-family="monospace" font-size="14" font-weight="bold" fill="#c7ffd9">CVE-2023-25915  |  Danfoss AK-SM 800A Series</text>
+<text x="52" y="357" font-family="monospace" font-size="11" font-weight="normal" fill="#83bd98">Added: 2026-11-25  |  Ransomware use: Unknown</text>
+<text x="30" y="385" font-family="monospace" font-size="14" font-weight="bold" fill="#c7ffd9">CVE-2026-133324  |  Mitel MiCollab</text>
+<text x="52" y="405" font-family="monospace" font-size="11" font-weight="normal" fill="#83bd98">Added: 2026-11-25  |  Ransomware use: Unknown</text>
+<text x="30" y="433" font-family="monospace" font-size="14" font-weight="bold" fill="#c7ffd9">CVE-2026-133275  |  Mitel MiCollab</text>
+<text x="52" y="453" font-family="monospace" font-size="11" font-weight="normal" fill="#83bd98">Added: 2026-11-25  |  Ransomware use: Unknown</text>
 <line x1="28" y1="330" x2="972" y2="330" stroke="#176b43"/>
 <text x="28" y="350" font-family="monospace" font-size="11" font-weight="normal" fill="#70b58b">Source: CISA KEV catalog | Exploited-vulnerability tracking, NOT a live attack feed</text>
 </svg>
